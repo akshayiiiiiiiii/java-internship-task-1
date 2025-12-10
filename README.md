@@ -1,1 +1,0 @@
-# java-internship-task-1
